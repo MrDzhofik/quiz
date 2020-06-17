@@ -1,0 +1,12 @@
+body{
+    background: white;
+}
+
+.dino{
+    width: 360px;
+    height: 340px;
+}
+
+li a{
+    color: green;
+}
